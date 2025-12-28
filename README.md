@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔧 I’m currently working on<br><br>Building and managing cloud-native applications using AWS, Docker, Kubernetes, and CI/CD pipelines.<br>Focused on automation, scalability, and reliable production deployments.<br><br>🤝 I’m looking to collaborate on<br><br>DevOps and Cloud projects involving CI/CD automation, Kubernetes, cloud infrastructure, and monitoring.<br>Open to working with teams building scalable, production-grade systems.<br><br>🆘 I’m looking for help with<br><br>Advanced Kubernetes architecture, cloud cost optimization, and large-scale production troubleshooting.<br>Interested in learning real-world best practices from experienced engineers.<br><br>📚 I’m currently learning<br><br>Cloud-native DevOps practices, advanced Kubernetes concepts, and infrastructure as code.<br>Exploring system design, monitoring, and security in cloud environments.
+🔧 DevOps Engineer with <b>2+ years of hands-on experience</b> in building and automating CI/CD pipelines, cloud infrastructure, and Kubernetes-based deployments.<br><br>
+Experienced with <b>AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, and Ansible</b>, with a strong focus on reliability, scalability, and automation.<br><br>
+Skilled in <b>Linux, Shell scripting, monitoring (Prometheus, Grafana, ELK)</b>, and infrastructure as code.<br><br>
+Worked on <b>large-scale production environments</b>, improving deployment speed, system availability, and incident response.<br><br>
+Certified <b>AWS Cloud Practitioner</b>, <b>Azure Fundamentals (AZ-900)</b>, and <b>Azure Data Fundamentals (DP-900)</b>.<br><br>
+Passionate about <b>cloud-native technologies</b> and continuous improvement.
 
 
 ## 🌐 Socials:
